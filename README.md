@@ -17,8 +17,10 @@
 
 ## Demo
 
-### 类似问卷调查
-
+### 类似问卷调查 
+   
+   >> v 1.0
+   
    页面一般共有5个，loading、start、content、end、common；其中common是个全局元素集合的页面。
   固然CSS和页面相对应~~
   
